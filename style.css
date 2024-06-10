@@ -1,0 +1,150 @@
+
+
+.main{
+    padding: 30px 10px; 
+    margin: 0 auto;
+}
+
+.sedans{
+    background-color: #e38525;
+    height: 500px;
+    padding: 40px;
+    width: 334px;
+}
+
+
+
+.title-sedans{
+    font-family: "Big Shoulders Display", sans-serif;
+    margin-top: 25px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.sedan-text{
+    font-size: 21px;
+    font-family: "Lexend Deca", sans-serif;
+    line-height: 40px;
+    color: rgba(240, 248, 255, 0.676);
+}
+
+.Learn-More{
+    background-color: white;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 100px;
+    color: #e38525;
+    width: 190px;
+    margin-top: 40px;
+    height: 60px;
+    font-size: 18px;
+}
+
+.Learn-More:hover{
+    background-color: #e38525;
+    color: white;
+    border: 2px solid white;
+    
+
+}
+
+
+
+
+
+.suv{
+    background-color: #016972;
+    height: 500px;
+    padding: 40px;
+    width: 334px;
+}
+
+
+
+.title-suv{
+    font-family: "Big Shoulders Display", sans-serif;
+    margin-top: 25px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.suv-text{
+    font-size: 21px;
+    font-family: "Lexend Deca", sans-serif;
+    line-height: 40px;
+    color: rgba(240, 248, 255, 0.676);
+}
+
+.Learn-More-suv{
+    background-color: white;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 100px;
+    color: #016972;
+    width: 190px;
+    margin-top: 40px;
+    height: 60px;
+    font-size: 18px;
+}
+
+.Learn-More-suv:hover{
+    background-color: #016972;
+    color: white;
+    border: 2px solid white;
+    
+
+}
+
+
+
+
+.luxury{
+    background-color: #00403f;
+    height: 500px;
+    padding: 40px;
+    width: 334px;
+}
+
+
+
+.title-luxury{
+    font-family: "Big Shoulders Display", sans-serif;
+    margin-top: 25px;
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.text-luxury{
+    font-size: 21px;
+    font-family: "Lexend Deca", sans-serif;
+    line-height: 40px;
+    color: rgba(240, 248, 255, 0.676);
+}
+
+.Learn-More-luxury{
+    background-color: white;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 100px;
+    color: #00403f;
+    width: 190px;
+    margin-top: 40px;
+    height: 60px;
+    font-size: 18px;
+}
+
+.Learn-More-luxury:hover{
+    background-color: #00403f;
+    color: white;
+    border: 2px solid white;
+    
+
+}
+
+
+@media screen and (min-width: 1000px){
+    .main{
+        display: flex;
+        
+    }
+}
